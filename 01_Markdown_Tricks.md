@@ -10,9 +10,7 @@ Markdown pages will be "titled" on the sidebar with a single "#" header and do n
 
 Equations follow the LaTeX Markdown format.
 
-As with Jupyter and RStudio, you can use single $'s to wrap inline equationn.  For example: $A=\pi r^2$.   
-
-For larger equations centered on their own, just wrap them in two $'s.
+As with Jupyter and RStudio, you can use a pair of $'s to wrap inline equationn.  
 
 $$\pi=\int_0^2{ \frac{4}{1+x^2}}dx$$
 
