@@ -14,7 +14,7 @@ Equations follow the LaTeX Markdown format.
 
 As with Jupyter and RStudio, you can use a pair of $'s to wrap inline equationn.  
 
-$$\pi=\int_0^2{ \frac{4}{1+x^2}}dx$$
+$$\pi=\int_0^1{ \frac{4}{1+x^2}}dx$$
 
 The [Codecogs's LaTeX Equation Editor](https://latex.codecogs.com/eqneditor/editor.php) is a useful tool to graphically construct the markdown code for most equations, as well as learn the basics of LaTeX equations so you can encopde simple equations on your own.
 
