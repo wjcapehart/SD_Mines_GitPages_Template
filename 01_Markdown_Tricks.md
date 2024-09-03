@@ -23,19 +23,19 @@ The [Codecogs's LaTeX Equation Editor](https://latex.codecogs.com/eqneditor/edit
 Not the same as code blocks, these four types of blocks highlight pointers and alarms of various degrees of importance.  
 
 ```tip
-Warning: There are no wrong answers, just really bad right ones.
+Protip: There are no wrong answers, just really bad right ones.
 ```
 
 ```note
-Warning: Markdown in Github could benefit from a spell checker.
+Just saying: Markdown in Github could benefit from a spell checker.
 ```
 
 ```warning
-Warning: Pennies are not fuses on a budget
+This is not guidance: Pennies are not fuses on a budget
 ```
 
 ```danger
-Warning: Don't try this at home.  Try it at your *friends* house!
+Don't try this at home: Try it at your *friends* house!
 ```
 
 
