@@ -14,13 +14,13 @@ The Instruction Tab to the left will give you guidance applying it and customizi
 
 This is your landing page for your copy of this template.  It's the equivalent of the home page. 
 
-Other pages, e.g., "Research," "Academics," "Service," "Etc" can be added using the example in this starter repository with the (*00_Instructions.md) file.
+Other pages, e.g., "Research," "Academics," "Service," "Etc" can be added using the example in this starter repository with the [*00_Instructions.md*](https://github.com/wjcapehart/SD_Mines_GitPages_Template/blob/main/00%20Instructions.md) file.
 
-Editing and formatting these pages uses the [GitHub Markdown language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).  
+Editing and formatting these pages uses the [GitHub Markdown language](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html#).  
 
-> [!NOTE]  
-> TL;DR: If you have worked with [Jupyter Markdown](https://jupyter notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html) or [RStudio Markdown](https://rmarkdown.rstudio.com/index.html), you will recognize most structures.  
-
+```note  
+TL;DR: If you have worked with [Jupyter Markdown](https://jupyternotebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html) or [RStudio Markdown](https://rmarkdown.rstudio.com/index.html), you will recognize most structures.  
+```
 
 ## Contact Information
 
