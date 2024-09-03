@@ -41,6 +41,29 @@ For the _.config.yml_ make the following changes
 
 ## Markdown Files (*.md)
 
+Content (i.e., webpages) are managed through Markdown Files with the (.md) suffix in the root directory of your web project.  
+
+
+:::::info[Parent]
+
+Parent content
+
+::::danger[Child]
+
+Child content
+
+:::tip[Deep Child]
+
+Deep child content
+
+:::
+
+::::
+
+:::::
+
+
+
 
    
 
