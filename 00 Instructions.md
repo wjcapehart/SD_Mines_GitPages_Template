@@ -13,7 +13,7 @@ Warning: Typos are Legion
 Warning: Typos are Legion
 ```
 
-```tips
+```tip
 Warning: Typos are Legion
 ```
 
