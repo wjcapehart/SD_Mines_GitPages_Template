@@ -110,3 +110,40 @@ body{
     color:#B3A369;
     border:0
 }
+
+.toasts.danger .title{
+    background:#FF0000
+}
+
+.toasts.danger{
+    background-color:#ffc8bd
+}
+
+.toasts.warning .title{
+    background:#ffa500
+}
+
+.toasts.warning{
+    background-color:#ffe5c6
+}
+
+
+.toasts.note .title{
+    background:#0000ff
+}
+
+.toasts.note{
+    background-color:#aac9ff
+}
+
+
+.toasts.tip .title{
+    background:#008000
+}
+
+.toasts.tip{
+    background-color:#bcd9b9
+}
+
+
+
