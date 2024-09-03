@@ -1,22 +1,5 @@
 # Instructions
 
-
-```danger
-Warning: Typos are Legion
-```
-
-```warning
-Warning: Typos are Legion
-```
-
-```note
-Warning: Typos are Legion
-```
-
-```tip
-Warning: Typos are Legion
-```
-
 ## Making a Web Page on GitPages
 
 Before starting you should first make a generic and blank web page 
@@ -51,11 +34,29 @@ The file structure that you should worry about is:
 
 For the _.config.yml_ make the following changes
 
+```warning
+Do NOT change the *remote_theme*!
+```
+
+| Variable                   | Description                               |
+|----------------------------|-------------------------------------------|
+| title                      | your webpage name as it will be displayed |
+| email                      | your contact email                        |
+| description                | a basic descrption of the page            |
+| github_username            | your github username                      |
+| sdmines_developer_homepage | your professional webpage                 |
+| site.email                 | your contact email (again)                |
+| url                        | your github repository for *this* page    |
+
 
 
 ## Markdown Files (*.md)
 
 Content (i.e., webpages) are managed through Markdown Files with the (.md) suffix in the root directory of your web project.  
+
+Markdown pages in your project root directory are visible on the sidebar and will be named by your first level "header" in the Markdown file. 
+
+More tips and tricks are at [*01_Markdown_Tricks.md*](./01_Markdown_Tricks.md) file (Called "Markdown Tricks" on the side menu).
 
 
 
