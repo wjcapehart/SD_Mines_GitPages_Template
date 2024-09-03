@@ -1,7 +1,0 @@
-"0",""
-"0","ggplot(data = concrete) +   # invoke graphics environment using a given dataframe"
-"0","  "
-"0","  aes(x = Cement)   +       # select variable to print... You can get really fancy here later"
-"0",""
-"0","  geom_histogram()          # NEW: insert histogram"
-"0",""

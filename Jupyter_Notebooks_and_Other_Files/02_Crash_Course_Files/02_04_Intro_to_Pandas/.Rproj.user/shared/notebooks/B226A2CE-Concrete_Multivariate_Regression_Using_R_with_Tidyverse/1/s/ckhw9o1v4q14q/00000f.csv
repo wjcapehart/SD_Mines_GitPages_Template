@@ -1,6 +1,0 @@
-"0",""
-"0","  # draw a correlation graphic..."
-"0",""
-"0","  corrplot(corr   = correlation_matrix,"
-"0","           type   = ""upper"")"
-"0",""

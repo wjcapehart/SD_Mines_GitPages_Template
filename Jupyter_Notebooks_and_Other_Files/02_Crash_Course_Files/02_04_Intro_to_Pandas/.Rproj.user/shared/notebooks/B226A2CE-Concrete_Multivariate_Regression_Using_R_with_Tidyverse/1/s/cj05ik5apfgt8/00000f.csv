@@ -1,3 +1,0 @@
-"0",""
-"0","linear_model.S_v_c =  lm(formula = Compressive_Strength_28dy ~ Cement, # your formula y ~ x"
-"0","                         data    = concrete)                           # the data frame"
