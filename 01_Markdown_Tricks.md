@@ -35,7 +35,7 @@ This is not guidance: Pennies are not fuses on a budget
 ```
 
 ```danger
-Don't try this at home: Try it at your *friends* house!
+Kids Dom't try this at home: Try it at your *friends* house!
 ```
 
 
