@@ -39,7 +39,7 @@ Do NOT change the *remote_theme*!
 ```
 
 | Variable                   | Description                               |
-|----------------------------|-------------------------------------------|
+|:--------------------------:|:-----------------------------------------:|
 | title                      | your webpage name as it will be displayed |
 | email                      | your contact email                        |
 | description                | a basic descrption of the page            |
