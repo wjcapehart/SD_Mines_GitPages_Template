@@ -1,0 +1,13 @@
+{
+    "sortOrder": [
+        {
+            "columnIndex": 4,
+            "ascending": true
+        },
+        {
+            "columnIndex": 2,
+            "ascending": true
+        }
+    ],
+    "path": "~/GitHub/AES_CEE_Python/Jupyter_Notebooks_and_Other_Files/02_Crash_Course_Files/02_04_Intro_to_Pandas"
+}

@@ -1,0 +1,8 @@
+"0",""
+"0","  # Slimmed Down Dataframe"
+"0",""
+"0","  concrete = concrete %>%"
+"0","    select(-c( Test_Number,"
+"0","               Slump,"
+"0","               Flow))"
+"0",""

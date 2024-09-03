@@ -1,0 +1,6 @@
+"0",""
+"0","# way too many tiny plots!"
+"0",""
+"0","pairs(x   = concrete, # do everything in the dataframe"
+"0","      pch = ""."")      # plot dots (the default is circles)"
+"0",""

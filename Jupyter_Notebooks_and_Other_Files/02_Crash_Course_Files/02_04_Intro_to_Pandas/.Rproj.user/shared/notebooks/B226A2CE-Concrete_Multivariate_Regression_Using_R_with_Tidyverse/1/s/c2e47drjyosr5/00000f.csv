@@ -1,0 +1,4 @@
+"0",""
+"0","fitted.S_v_all = get_regression_points(model = linear_model.S_v_all)"
+"0",""
+"0","print(fitted.S_v_all)"
