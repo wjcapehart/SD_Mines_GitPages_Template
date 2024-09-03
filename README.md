@@ -2,18 +2,29 @@
 ![This should be your "home page picture](images/Home_Page_Photo_Placeholder.jpg)
 
 
-## About These Pages
+## About these pages
 
-This page is a collection of "deep dives" that slowly work through basic issues on spinning up Python for beginners.  It covers the basics of getting started with python in a Jupyter Notebook and puts emphasis on things that made me want to rage-quit in my own transition to Python.  Consequently a lot of the material here is slightly cheeky (and sometimes not-so cheeky).
+This is a generic download and push set of Gitpages that you can modify.  
 
-This differs from a number of tutorial sites and "example" pages out there as my demos presented here slooowwwwwllllyy build the activity step-by-step adding small modifications one element at time.  (In my experience being flooded with everything at once as lead to me having to close my door for the benefit of my neighboring colleagues.)
+This template was originally modified from the classic "RTD" ("Read the Docs") by a former Github developer known as "rundocs".  These pages were discontinued and accounts picked up the others.  [This template uses one mantained by Clear Path Robotics](https://github.com/clearpathrobotics/jekyll-rtd-theme), and has been modified with fonts and color schemes more in line with South Dakota Mines' branding policies.
 
+The Instruction Tab to the left will give you guidance applying it and customizing it.
 
+## About _This_ Particular Page
+
+This is your landing page for your copy of this template.  It's the equivalent of the home page. 
+
+Other pages, e.g., "Research," "Academics," "Service," "Etc" can be added using the example in this starter repository with the (*00_Instructions.md) file.
+
+Editing and formatting these pages uses the [GitHub Markdown language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).  
+
+> [!NOTE]  
+> TL;DR: If you have worked with [Jupyter Markdown](https://jupyter notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html) or [RStudio Markdown](https://rmarkdown.rstudio.com/index.html), you will recognize most structures.  
 
 
 ## Contact Information
 
-[Your_Name_and_Link_To_Your_Mines_Page](https://www.sdsmt.edu/), Position<br>
+[Your_Name_and_Link_To_Your "Official"_Mines_Page](https://www.sdsmt.edu/), Position<br>
 Civil & Environmental Engineering<br>
 South Dakota Mines<br>
 501 E. Saint Joseph St.<br> Rapid City, SD 57701<br>
