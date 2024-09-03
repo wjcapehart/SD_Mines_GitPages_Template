@@ -4,6 +4,8 @@ Markdown here works mostly like traditional Markdown in [Jupyter Markdown](https
 
 This presumes that the user understands how to use topic headers, include images, links, and can __bold__, _italicize_, ___etc___ for text.  If not there are examples of these features in the raw markdown on this and other pages in larger template package.
 
+## Markdown Headers to Make a Table of Contents
+
 Markdown pages will be "titled" on the sidebar with a single "#" header and do not have the share the same name as the Markdown ".md" file.  Higher-level headers (##, ###, etc) will be then listed in dropdowns on the sidebar menu.
 
 ## Equations
