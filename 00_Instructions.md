@@ -40,6 +40,9 @@ The file structure that you should worry about is:
   * __includes/_ (localized customizations for nominally compliant South Dakota Mines branding)
      * "If you change these files, it's your recipe and not mine."
   * _assets/css/fonts_ (local fonts sourced in the __includes/_ directories)
+     * [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+     * [Spectral](https://fonts.google.com/specimen/Spectral?query=spectral)
+     * [FontAwsome](https://fontawesome.com)
   * *LICENSE* (MIT License File)
   * _README.md_ (The Homepage and Introduction for your page.)
      * Any other "md" (markdown) files will arranged on the sidebar in numeric->alphabetical order.
