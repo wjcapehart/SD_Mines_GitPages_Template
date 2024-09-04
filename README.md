@@ -8,11 +8,11 @@ Typo's are legion!
 
 ## About these pages
 
-This is a generic download and push set of Gitpages that you can modify.  
+This is a generic download and set of GitPages configuration and formatting files that you can modify.  
 
-This template was originally modified from the classic "RTD" ("Read the Docs") by a former Github developer known as "rundocs".  These pages were discontinued and accounts picked up the others.  [This template uses one mantained by Clear Path Robotics](https://github.com/clearpathrobotics/jekyll-rtd-theme), and has been modified with fonts and color schemes more in line with South Dakota Mines' branding policies.
+This template was originally modified from the classic "RTD" ("Read the Docs") by a former Github developer known as "rundocs".  These pages were discontinued and accounts picked up the others.  [This template uses one maintained by Clear Path Robotics](https://github.com/clearpathrobotics/jekyll-rtd-theme), and has been modified with fonts and color schemes more in line with South Dakota Mines' branding policies.
 
-The Instruction Tab to the left will give you guidance applying it and customizing it.
+The Instruction Tab to the left will give you guidance on applying and customizing it.
 
 ## About _This_ Particular Page
 
