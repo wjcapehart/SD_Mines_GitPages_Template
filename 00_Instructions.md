@@ -2,13 +2,15 @@
 
 ## Making a Web Page on GitPages
 
-Before starting you should first make a generic and blank web page 
+Before starting you should first make a generic and blank web page.
 
-Guidance for this is here.  ["Setting up a GitHub Pages site with Jekyll"](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
+Guidance for this is here. 
+
+*  ["Setting up a GitHub Pages site with Jekyll"](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
 
 Once you get an empty project, you can then populate it.
 
-To apply this template you can download the full distribution as a "tarball", crack it open, and drag & drop the files into the GitHub webpage interface.  You will need to edit the _.config.yml_ file before your pages can be useful. More on that below.
+To apply this template, you can download the full distribution as a "tarball" of this GitHub site, crack it open, and drag & drop the files into the GitHub webpage interface.  You will need to edit the _.config.yml_ file before your pages can be useful. More on that below.
 
 ## File Structure
 
@@ -21,7 +23,7 @@ The file structure that you should worry about is:
      * *Department_Lockups_AES_CEE_white_trans.png* (AES/CEE Lockup)
      * *Department_Lockups_CEE_white_trans.png* (CEE Lockup)
   * __includes/_ (localized customizations for nominally compliant South Dakota Mines branding)
-     * "If you change these files, it's your recipe and not mine."
+     * I recommend avoiding playing with this unless you are very *very* good at working with css and html.
   * _assets/css/fonts_ (local fonts sourced in the __includes/_ directories)
      * [Open Sans](https://fonts.google.com/specimen/Open+Sans)
      * [Spectral](https://fonts.google.com/specimen/Spectral?query=spectral)
@@ -29,6 +31,10 @@ The file structure that you should worry about is:
   * *LICENSE* (MIT License File)
   * _README.md_ (The Homepage and Introduction for your page.)
      * Any other "md" (markdown) files will arranged on the sidebar in numeric->alphabetical order.
+
+```danger
+If you change the *__/includes/_ file, "it's your recipe and not mine."
+```
 
 ## Editing the _.config.yml_ file.
 
