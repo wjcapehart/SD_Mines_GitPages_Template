@@ -2,7 +2,7 @@
 
 Markdown here works mostly like traditional Markdown in [Jupyter Markdown](https://jupyternotebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html) or [RStudio Markdown](https://rmarkdown.rstudio.com/index.html)
 
-This presumes that the user understands how to use topic headers, include images, links, and can __bold__, _italicize_, ___etc___ for text.  If not there are examples of these features in the raw markdown on this and other pages in larger template package.
+This presumes that the user understands how to use topic headers, include images, and links, and can __bold__, _italicize_, ___etc___ for text.  If not, there are examples of these features in the raw markdown on this and other pages in a larger template package.
 
 ## Markdown Headers to Make a Table of Contents
 
@@ -16,18 +16,18 @@ As with Jupyter and RStudio, you can use a pair of $'s to wrap your equations.
 
 $$\pi=\int_0^1{ \frac{4}{1+x^2}}dx$$
 
-The [Codecogs's LaTeX Equation Editor](https://latex.codecogs.com/eqneditor/editor.php) is a useful tool to graphically construct the markdown code for most equations, as well as learn the basics of LaTeX equations so you can encopde simple equations on your own.
+The [Codecogs's LaTeX Equation Editor](https://latex.codecogs.com/eqneditor/editor.php) is a useful tool to graphically construct the markdown code for most equations, as well as learn the basics of LaTeX equations so you can encode simple equations on your own.
 
 ## "Admonitions" & "Toasts"
 
 Not the same as code blocks, these four types of blocks highlight pointers and alarms of various degrees of importance.  
 
 ```tip
-Protip: There are no wrong answers, just really bad right ones.
+Protip: For making large tables there are [web pages](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/) specifically to convert Excel blocks into Markdown tables.
 ```
 
 ```note
-Just saying: Markdown in Github could benefit from a spell checker.
+Just saying: There are no wrong answers, just really bad right ones.
 ```
 
 ```warning
@@ -35,7 +35,7 @@ This is not guidance: Pennies are not fuses on a budget
 ```
 
 ```danger
-Kids Dom't try this at home: Try it at your *friends* house!
+Kids Dom't try this at home: Try it at your *friend's* house!
 ```
 
 
