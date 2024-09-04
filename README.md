@@ -2,6 +2,10 @@
 ![This should be your "home page picture](images/Home_Page_Photo_Placeholder.jpg)
 
 
+```warning
+Typo's are legion!
+```
+
 ## About these pages
 
 This is a generic download and push set of Gitpages that you can modify.  
