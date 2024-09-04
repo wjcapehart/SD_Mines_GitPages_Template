@@ -4,11 +4,11 @@
 
 Before starting you should first make a generic and blank web page 
 
-Guidence for this is here.  ["Setting up a GitHub Pages site with Jekyll"](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
+Guidance for this is here.  ["Setting up a GitHub Pages site with Jekyll"](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
 
 Once you get an empty project, you can then populate it.
 
-It also may be helpful to push this tarball to your blank project.
+To apply this template you can download the full distribution as a "tarball", crack it open, and drag & drop the files into the GitHub webpage interface.  You will need to edit the _.config.yml_ file before your pages can be useful. More on that below.
 
 ## File Structure
 
@@ -17,7 +17,7 @@ The file structure that you should worry about is:
 * /
   * _.config.yml_ (the configuration file - you will need to edit this)
   * __images/_ (a good place to put images)
-     * *Department_Lockups_USE_THIS_ONE.png* (copy your prefered "South Dakota Mines 'M' Lockup to this name and it will auto-load when you push it to github.
+     * *Department_Lockups_USE_THIS_ONE.png* (copy your preferred "South Dakota Mines 'M' Lockup to this name and it will auto-load when you push it to GitHub.
      * *Department_Lockups_AES_CEE_white_trans.png* (AES/CEE Lockup)
      * *Department_Lockups_CEE_white_trans.png* (CEE Lockup)
   * __includes/_ (localized customizations for nominally compliant South Dakota Mines branding)
@@ -32,6 +32,10 @@ The file structure that you should worry about is:
 
 ## Editing the _.config.yml_ file.
 
+```warning
+Before you can use or serve your pages you must customize the _.config.yml_ file.
+```
+
 For the _.config.yml_ make the following changes
 
 ```warning
@@ -42,11 +46,11 @@ Do NOT change the *remote_theme*!
 |:--------------------------:|:-----------------------------------------:|
 | title                      | your webpage name as it will be displayed |
 | email                      | your contact email                        |
-| description                | a basic descrption of the page            |
-| github_username            | your github username                      |
+| description                | a basic description of the page            |
+| github_username            | your GitHub username                      |
 | sdmines_developer_homepage | your professional webpage                 |
 | site.email                 | your contact email (again)                |
-| url                        | your github repository for *this* page    |
+| url                        | your GitHub repository for *this* page    |
 
 
 
