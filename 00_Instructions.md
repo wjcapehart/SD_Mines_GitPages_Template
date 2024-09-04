@@ -33,7 +33,7 @@ The file structure that you should worry about is:
      * Any other "md" (markdown) files will arranged on the sidebar in numeric->alphabetical order.
 
 ```danger
-If you change the *__/includes/_ file, "it's your recipe and not mine."
+If you change files found in the *__/includes/_ directory, "it's your recipe and not mine."
 ```
 
 ## Editing the _.config.yml_ file.
