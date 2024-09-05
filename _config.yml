@@ -25,12 +25,15 @@ email: William.Capehart@sdsmt.edu
 description: Generic SD Mines RTD Template
 
 
-twitter_username: Bill_Capehart
+sdmines_directory_homepage: https://www.sdsmt.edu/about/directory/capehart_-william.html
+orcid_number: 0000-0002-4926-0992
+linkin_username: william-capehart/
 github_username:  wjcapehart
-sdmines_developer_homepage: https://www.sdsmt.edu/about/directory/capehart_-william.html
+instagram_username: cat_ambulance_daily
+twitter_username: Bill_Capehart
+bluesky_username: billcapehart.bsky.social
+facebook_username: SDMines.Atmos.Env.Sci
 site.email: William.Capehart@sdsmt.edu
-url: https://github.com/wjcapehart/SD_Mines_GitPages_Template/
-
 
 
 sass:
