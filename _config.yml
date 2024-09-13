@@ -20,20 +20,20 @@
 
 # Build settings
 remote_theme: clearpathrobotics/jekyll-rtd-theme
+
 title: Generic SD Mines RTD Template
 email: William.Capehart@sdsmt.edu
 description: Generic SD Mines RTD Template
-
+site.email: William.Capehart@sdsmt.edu
 
 sdmines_directory_homepage: https://www.sdsmt.edu/about/directory/capehart_-william.html
 orcid_number: 0000-0002-4926-0992
-linkin_username: william-capehart/
+linkin_username: william-capehart
 github_username:  wjcapehart
 instagram_username: cat_ambulance_daily
 twitter_username: Bill_Capehart
 bluesky_username: billcapehart.bsky.social
 facebook_username: SDMines.Atmos.Env.Sci
-site.email: William.Capehart@sdsmt.edu
 
 
 sass:
