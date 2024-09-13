@@ -34,4 +34,3 @@ South Dakota Mines<br>
 501 E. Saint Joseph St.<br> Rapid City, SD 57701<br>
 Phone | <a href="mailto:{{ site.email | encode_email }}" title="Contact me">Email me</a>
 
-<i class="fa-brands fa-orcid">test</i>
