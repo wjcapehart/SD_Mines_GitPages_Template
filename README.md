@@ -28,8 +28,10 @@ TL;DR: If you have worked with [Jupyter Markdown](https://jupyternotebook.readth
 
 ## Contact Information
 
-[Your_Name_and_Link_To_Your "Official"_Mines_Page](https://www.sdsmt.edu/), Position<br>
-Civil & Environmental Engineering<br>
+
+<a href="{{ sdmines_directory_homepage }}" title="SD Mines URL">TYPE_YOUR_NAME_HERE</a>, TYPE_YOUR_POSITION_HERE<br>
+ACADEMIC_UNIT_GOES_HERE<br>
 South Dakota Mines<br>
 501 E. Saint Joseph St.<br> Rapid City, SD 57701<br>
-Phone | <a href="mailto:{{ site.email | encode_email }}" title="Contact me">Email me</a>
+PHONE_NUMBER_GOES_HERE | <a href="mailto:{{ site.email | encode_email }}" title="Contact me">Email me</a>
+
