@@ -1,12 +1,13 @@
 # Generic SD Mines GitPages Template
 
 <a href="https://orcid.org/0000-0001-5727-2427">
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="24" height="24"/>
+<img alt="ORCID logo" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="24" height="24"/>
 0000-0000-0000-0000
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/william-capehart/"><i style="font-size:24px" color="#0f4fb5" class="fa">&#xf08c;</i></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/wjcapehart"><i style="font-size:24px" class="fa">&#xf09b;</i></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<i class="fab fa-orcid"></i>
+<a href="https://github.com/wjcapehart"><i style="font-size:24px" class="fa">&#xf09b;</i></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![This should be your "home page picture](images/Home_Page_Photo_Placeholder.jpg)
 
