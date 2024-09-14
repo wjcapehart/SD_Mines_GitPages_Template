@@ -25,8 +25,16 @@ title: Generic SD Mines RTD Template
 email: William.Capehart@sdsmt.edu
 description: Generic SD Mines RTD Template
 site.email: William.Capehart@sdsmt.edu
-github_username:  wjcapehart
+github_username:  wrfmodel
 
+sdmines_directory_homepage: https://www.sdsmt.edu
+orcid_number: 0000-0000-0000-0000
+linkedin_username: linkedin
+facebook_username: SDMines.Atmos.Env.Sci
+instagram_username: cat_ambulance_daily
+threads_username: NOAASatellites
+twitter_username: NOAASatellites
+bluesky_username: skywarn.bsky.social
 
 
 sass:
