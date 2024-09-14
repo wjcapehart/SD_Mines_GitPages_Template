@@ -1,10 +1,11 @@
 # Generic SD Mines GitPages Template
-<a href="https://www.petfinder.com/cats-and-kittens/adoption/">
-    <i class="fa fa-orcid"></i>
-    ORCID
+
+<a href="https://orcid.org/0000-0001-5727-2427">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+https://orcid.org/0000-0001-2345-6789
 </a>
 
-<p><i class="fa-solid fa-coffee"></i> When my six o’clock alarm buzzes, I require a pot of good java. </p>
+
 
 ![This should be your "home page picture](images/Home_Page_Photo_Placeholder.jpg)
 
