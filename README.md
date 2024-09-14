@@ -1,10 +1,10 @@
 # Generic SD Mines GitPages Template
-            <dd>
-                <a href="https://www.petfinder.com/cats-and-kittens/adoption/">
-                    <i class="fa fa-orcid"></i>
-                    ORCID
-                </a>
-            </dd>
+<a href="https://www.petfinder.com/cats-and-kittens/adoption/">
+    <i class="fa fa-orcid"></i>
+    ORCID
+</a>
+
+<p><i class="fa-solid fa-coffee"></i> When my six o’clock alarm buzzes, I require a pot of good java. </p>
 
 ![This should be your "home page picture](images/Home_Page_Photo_Placeholder.jpg)
 
