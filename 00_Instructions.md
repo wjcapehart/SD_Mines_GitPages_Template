@@ -54,14 +54,6 @@ Do NOT change the *remote_theme*!
 | description                | a basic description of the page             |
 | url                        | your GitHub repository for *this* page      |
 | site.email                 | your contact email (again)                  |
-| sdmines_developer_homepage | your professional webpage                   |
-| orcid_number               | ORCID Number (Delete Row if None)           |
-| linkin_username            | Link-in Account Name (Delete Row if None)   |
-| github_username            | Github Account Name                         |
-| instagram_username         | Instagram Account Name (Delete Row if None) |
-| twitter_username           | Twitter Account Name (Delete Row if None)   |
-| bluesky_username           | Blue Sky Account Name (Delete Row if None)  |
-| facebook_username          | Facebook Account Name (Delete Row if None)  |
 
 
 
