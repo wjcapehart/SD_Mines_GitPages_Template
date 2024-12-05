@@ -1,9 +1,9 @@
 # Generic SD Mines GitPages Template
 
 
-<a href="https://orcid.org/0000-0002-4926-0992">
+<a href="https://orcid.org/{{ orchid_number }}">
 <img alt="ORCID logo" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="24" height="24"/>
-0000-0002-4926-0992</a>
+{{ orchid_number }}</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/william-capehart/"><i style="font-size:24px" color="#0f4fb5" class="fa">&#xf08c;</i></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/wjcapehart"><i style="font-size:24px" class="fa">&#xf09b;</i></a>
@@ -34,6 +34,9 @@ Editing and formatting these pages uses the [GitHub Markdown language](https://j
 
 ```note  
 TL;DR: If you have worked with [Jupyter Markdown](https://jupyternotebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html) or [RStudio Markdown](https://rmarkdown.rstudio.com/index.html), you will recognize most structures.  
+
+Other structures, such as those bracketed by "< >" symbols, are classic HTML codes.
+
 ```
 
 ## Contact Information
