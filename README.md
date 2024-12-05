@@ -1,10 +1,13 @@
 # Generic SD Mines GitPages Template
 
+```note  
+You should, edit, add or remove select SOCMED links following the models below as approriate. "&nbsp;" is a nonbreaking space in HTML.
+```
 
-<a href="https://orcid.org/{{ orchid_number }}">
-<img alt="ORCID logo" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="24" height="24"/>
-{{ orchid_number }}</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://orcid.org/0000-0002-4926-0992"> <sub>
+<img alt="ORCID Logo" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="24" height="24"/> </sub><sup>
+0000-0002-4926-0992</sup></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/william-capehart/"><i style="font-size:24px" color="#0f4fb5" class="fa">&#xf08c;</i></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/wjcapehart"><i style="font-size:24px" class="fa">&#xf09b;</i></a>
 
@@ -36,14 +39,13 @@ Editing and formatting these pages uses the [GitHub Markdown language](https://j
 TL;DR: If you have worked with [Jupyter Markdown](https://jupyternotebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html) or [RStudio Markdown](https://rmarkdown.rstudio.com/index.html), you will recognize most structures.  
 
 Other structures, such as those bracketed by "< >" symbols, are classic HTML codes.
-
 ```
 
-## Contact Information
+## Contact Information ** edit as needed **
 
-<a href="{{ sdmines_directory_homepage }}" title="SD Mines URL">TYPE_YOUR_NAME_HERE</a>, TYPE_YOUR_POSITION_HERE<br>
+TYPE_YOUR_NAME_HERE, TYPE_YOUR_POSITION_HERE<br>
 ACADEMIC_UNIT_GOES_HERE<br>
-South Dakota Mines<br>
+<a href="http://www.sdsmt.edu/" title="SD Mines URL">South Dakota Mines</a><br>
 501 E. Saint Joseph St.<br> Rapid City, SD 57701<br>
 PHONE_NUMBER_GOES_HERE | <a href="mailto:{{ site.email | encode_email }}" title="Contact me">Email me</a>
 
