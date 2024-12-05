@@ -26,7 +26,7 @@ The Instruction tab on the left will guide you in applying and customizing it.
 
 ## About _This_ Particular Page
 
-This is your landing page for your copy of this template.  It's the equivalent of the home page. 
+This (the *README.md* file) is your landing page for your copy of this template.  It's the equivalent of the home page. 
 
 Other pages, e.g., "Research," "Academics," "Service," "Etc" can be added using the example in this starter repository with the [*00_Instructions.md*](https://github.com/wjcapehart/SD_Mines_GitPages_Template/blob/main/00%20Instructions.md) file.
 
