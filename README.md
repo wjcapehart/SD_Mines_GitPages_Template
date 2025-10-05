@@ -45,7 +45,7 @@ Other structures, such as those bracketed by "< >" symbols, are classic HTML cod
 
 TYPE_YOUR_NAME_HERE, TYPE_YOUR_POSITION_HERE<br>
 ACADEMIC_UNIT_GOES_HERE<br>
-<a href="http://www.sdsmt.edu/" title="SD Mines URL">South Dakota Mines</a><br>
+<a href="https://www.sdsmt.edu/" title="SD Mines URL">South Dakota Mines</a><br>
 501 E. Saint Joseph St.<br> Rapid City, SD 57701<br>
 PHONE_NUMBER_GOES_HERE | <a href="mailto:{{ site.email | encode_email }}" title="Contact me">Email me</a>
 
